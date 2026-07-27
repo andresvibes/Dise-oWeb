@@ -1,8 +1,8 @@
-# 💼 Portafolio Web - Andrés Villanueva
+# 😏 Diseño Web - Andrés Villanueva
 
-¡Bienvenido a mi portafolio web!
+¡Bienvenido al diseño de mi pagina web!
 
-Este proyecto fue desarrollado con el objetivo de presentar mi perfil como desarrollador, mostrando mis habilidades, proyectos, experiencia y formas de contacto en un sitio web moderno y responsive.
+Este proyecto fue desarrollado con el fin de crear el diseño de mi pagina web para mi proyecto de formación en el SENA.
 
 ---
 
@@ -11,8 +11,6 @@ Este proyecto fue desarrollado con el objetivo de presentar mi perfil como desar
 - HTML5
 - CSS3
 - JavaScript
-- Font Awesome
-- Google Fonts
 
 ---
 
@@ -26,15 +24,6 @@ Portafolio.DOM/
  js/
       script.js
 
- img/
-      imágenes del proyecto
-
- evidences/
-      evidencias y recursos
-
-quiensoyyo/
-      "Sobre mí"
-
  index.html
 README.md
 ```
@@ -44,14 +33,7 @@ README.md
 ## ✨ Características
 
 - Diseño moderno y responsive.
-- Menú de navegación.
-- Sección de presentación.
-- Información personal.
-- Habilidades técnicas y profesionales.
-- Currículum.
-- Portafolio de proyectos.
-- Formulario de contacto.
-- Enlaces directos a redes sociales.
+
 
 ---
 
@@ -86,4 +68,4 @@ Si deseas comunicarte conmigo:
 
 ---
 
-Este proyecto fue desarrollado con fines educativos y para uso como portafolio personal.
+Este proyecto fue desarrollado con fines educativos y para uso como diseño de mi pagina web.
