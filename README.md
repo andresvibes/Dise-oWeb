@@ -8,8 +8,8 @@ Este proyecto fue desarrollado con el fin de crear el diseño de mi pagina web p
 
 ## 🚀 Tecnologías utilizadas
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ---
@@ -19,7 +19,7 @@ Este proyecto fue desarrollado con el fin de crear el diseño de mi pagina web p
 ```
 Portafolio.DOM/
  css/   
-     estilos.css
+     styles.css
 
  js/
       script.js
@@ -33,6 +33,8 @@ README.md
 ## ✨ Características
 
 - Diseño moderno y responsive.
+- Secciones organizadas y de fácil acceso.
+- botones 
 
 
 ---
@@ -62,7 +64,6 @@ Desarrollador Web en formación.
 Si deseas comunicarte conmigo:
 
 - 📧 Correo: *andres2764279@gmail.com*
-- 💼 LinkedIn: *KAvilla*
 - 📷 Instagram: *https://www.instagram.com/andresvillanueva30*
 - 💬 WhatsApp: *https://wa.me/573213186650*
 
